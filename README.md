@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-**aditya96582/aditya96582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi 👋, I'm Aditya Narayan
 
-🚀 MERN Stack Developer | SDE Aspirant | AI Enthusiast | IBM Hackathon Winner 2025 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;SDE+Aspirant;AI+Enthusiast;Hackathon+Winner&center=true&width=500&height=45">
+
+🚀 MERN Stack Developer | SDE Aspirant | AI Enthusiast
+🥇 IBM Prarambh Hackathon Winner 2025
 
 ---
 
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 
 * 🎓 B.Tech CSE (2023–2027) — GL Bajaj, AKTU
 * 💻 Passionate about Full-Stack Development & Backend Engineering
-* 🧠 Strong in Data Structures & Algorithms (300+ problems solved)
+* 🧠 Strong in Data Structures & Algorithms (**300+ problems solved**)
 * ⚡ Focused on building scalable real-world systems
 
 ---
@@ -46,7 +43,6 @@ Git | GitHub | AWS | Firebase | Netlify
 
 * NLP-based grievance classification pipeline
 * Improved prioritization accuracy by **30%** across 10K+ records
-* Designed scalable preprocessing and inference workflow
 
 ---
 
@@ -78,7 +74,22 @@ Git | GitHub | AWS | Firebase | Netlify
 
 * ⭐ LeetCode Rating: **1385**
 * 📈 Solved **300+ DSA problems**
-* 💡 Focus on optimization & problem-solving
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aditya96582\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=aditya96582\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya96582\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/aditya96582/aditya96582/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -89,12 +100,6 @@ Git | GitHub | AWS | Firebase | Netlify
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy solving complex problems and turning ideas into scalable products 🚀
-
--->
