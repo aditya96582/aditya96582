@@ -5,7 +5,7 @@
 
 ---
 
-🚀 Full Stack MERN Developer || 🎨 Backend Developer || 🤖 AI Enthusiast || 🧠 Prompt Engineer || 🏅 QuBitX HackwithIndia Top 25 Finalist || 🥇 Prarambh 2025 (IBM) Hackathon Winner || 🏅 Adobe India Hackathon Quarterfinalist 2025 || 🏅 Codex National Hackathon Finalist 2025 || 🏅 IIT Jammu Hackathon Finalist 2026
+🚀 Full Stack MERN Developer || 💻 Backend Developer || 🤖 AI Enthusiast || 🧠 Prompt Engineer || 🏅 QuBitX HackwithIndia Top 25 Finalist || 🏅 Adobe India Hackathon Quarterfinalist 2025 || 🏅 Codex National Hackathon Finalist 2025 || 🏅 IIT Jammu Hackathon Finalist 2026
 
 ---
 
